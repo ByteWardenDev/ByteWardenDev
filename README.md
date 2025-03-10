@@ -1,28 +1,9 @@
-<div align="center">
-  <a href="https://onexizz.space">
-    <img src="https://onexizz.furryporno.ru/img/onexizz/onexizz.png" alt="Header">
-  </a>
-
   # 👨‍💻 About Me
   
   ### Pythonist Developer
   > 🤖 Discord & Telegram Bots Developer  
   > 🌐 Web Developer  
   > 💻 Python & NodeJS Enthusiast
-
-  # 📊 GitHub Analytics
-  
-  <p align="center">
-    <a href="https://github.com/ByteWardenDev">
-      <img src="https://komarev.com/ghpvc/?username=ByteWardenDev&logo=github&style=for-the-badge&color=000000" alt="Profile Views">
-    </a>
-    <a href="https://github.com/ByteWardenDev?tab=followers">
-      <img src="https://img.shields.io/github/followers/ByteWardenDev?style=for-the-badge&logo=github&color=000000" alt="Followers">
-    </a>
-    <a href="https://github.com/ByteWardenDev?tab=repositories">
-      <img src="https://img.shields.io/github/stars/ByteWardenDev?style=for-the-badge&logo=github&color=000000" alt="Stars">
-    </a>
-  </p>
 
   # 🛠 Technologies & Tools
   
