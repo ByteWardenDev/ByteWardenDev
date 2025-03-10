@@ -1,6 +1,6 @@
   # 👨‍💻 About Me
   
-  ### Pythonist Developer
+  ### Python Developer
   > 🤖 Discord & Telegram Bots Developer  
   > 🌐 Web Developer  
   > 💻 Python & NodeJS Enthusiast
