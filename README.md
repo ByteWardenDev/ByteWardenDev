@@ -21,6 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteWardenDev&layout=compact&theme=dark&hide_border=true&bg_color=000000" alt="Top Languages">
   
 
+## Contact
 
-# Telegram 
-![TELEGRAM](https://t.me/ByteWarden_dev)
+# 📱 Telegram
+[ByteWarden_dev](https://t.me/ByteWarden_dev)
