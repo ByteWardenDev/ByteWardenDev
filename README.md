@@ -10,7 +10,6 @@
   ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js&logoColor=339933)
   ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
   ![sqlite3](https://img.shields.io/badge/-sqlite3-090909?style=for-the-badge&logo=sqlite&logoColor=07405E)
-  
   ![discord.py](https://img.shields.io/badge/-discord.py-090909?style=for-the-badge&logo=discord&logoColor=5865F2)
   ![aiogram](https://img.shields.io/badge/-aiogram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)
   
