@@ -1,4 +1,4 @@
-  # 👋 About Me
+  # 👋🏻 About Me
   
   ### Python Developer
   > 🤖 Discord & Telegram Bots Developer  
