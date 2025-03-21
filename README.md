@@ -18,10 +18,7 @@
   ![vscode](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
   # 📈 GitHub Stats
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteWardenDev&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SentinelDevCode&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="GitHub Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteWardenDev&layout=compact&theme=dark&hide_border=true&bg_color=000000" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SentinelDevCode&layout=compact&theme=dark&hide_border=true&bg_color=000000" alt="Top Languages">
   
-
-# Telegram
-[@ByteWarden](https://t.me/ByteWarden_dev)
